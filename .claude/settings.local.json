@@ -4,7 +4,8 @@
       "Bash(git add:*)",
       "Bash(./mvnw:*)",
       "Bash(chmod:*)",
-      "Bash(java:*)"
+      "Bash(java:*)",
+      "Bash(curl:*)"
     ],
     "deny": [],
     "ask": []
